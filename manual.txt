@@ -1,0 +1,26 @@
+KTANE Manual
+
+Level 1
+1. Color Module:
+   - The complementary color of 'blue' is 'orange'.
+
+2. Math Module:
+   - 7 * 8 = 56.
+
+Level 2
+1. Sequence Module:
+   - The sequence follows increments of 2, so the next number is 8.
+
+2. Riddle Module:
+   - "What has keys but can't open locks?" Answer: piano.
+
+Level 3
+1. Cipher Module:
+   - Caesar Cipher with a shift of 13: 'GRFG' becomes 'TEST'.
+
+2. Pattern Module:
+   - Squares of integers pattern: 1, 4, 9, 16, so the next is 25.
+
+3. Word Scramble:
+   - 'AEPPL' unscrambles to 'APPLE'.
+
