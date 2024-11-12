@@ -29,7 +29,7 @@ Solve puzzles in a limited time across three levels to defuse the bomb. Each lev
 ### Installation & Running Instructions
 
 1. **Download the Game**
-   - Go to the [latest release](https://github.com/ritafari/DefuseTheBombGame/releases) on GitHub and download the appropriate file for your operating system:
+   - Go to the [latest release](https://github.com/ritafari/SarEmGame-ktane-/releases) on GitHub and download the appropriate file for your operating system:
      - **Windows**: `sarem_game.exe`
      - **macOS**: `sarem_game_mac`
      - **Linux**: `sarem_game_linux`
